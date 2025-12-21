@@ -16,5 +16,5 @@ spec:
         app: tomcat
     spec:
       containers:
-      - image: public.ecr.aws/v0a8o2u0/minpublic.ecr.aws/v0a8o2u0/mindtreerepo:latest
+      - image: public.ecr.aws/v0a8o2u0/mindtreerepo:latest
         name: mindtreerepo
